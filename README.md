@@ -1,16 +1,19 @@
-## Hi there 👋
+# Marllon Vieira
 
-<!--
-**marllonwvp/marllonwvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista NOC em transição para Segurança Defensiva (SOC/Blue Team).
 
-Here are some ideas to get you started:
+## Experiência
+- Monitoramento de redes com Zabbix, Grafana e SolarWinds
+- Troubleshooting FTTH (OLTs Nokia, Huawei, ZTE, Zhone e Fiberhome)
+- Implantação de SD-WAN com Fortinet (fibra, 4G e Starlink)
+- Gestão de incidentes e SLA (Jira, BMC Helix)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estudando
+- TryHackMe e Hack The Box, com foco em SOC/Blue Team
+
+## Próximo projeto
+Laboratório de monitoramento e segurança com Docker: Zabbix + Grafana,
+alertas no Telegram e Wazuh como SIEM.
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/marllon-vieira-ab874b296/)
